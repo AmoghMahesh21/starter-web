@@ -17,6 +17,7 @@ This is the deployment stage
 ## How To Contribute
 
 This is contribute stage
+Fork the repo
 
 ### Copyright
 
