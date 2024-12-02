@@ -17,3 +17,7 @@ This is the deployment stage
 ## How To Contribute
 
 This is contribute stage
+
+### Copyright
+
+2024 Git
