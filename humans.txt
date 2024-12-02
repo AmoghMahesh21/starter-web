@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> Amogh -- <role> Trainee -- <twitter>
+    <name> Amogh -- <role> Trainee -- <twitter> amogh@twitter
 
 # THANKS
 
