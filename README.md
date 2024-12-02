@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 
 This is the introduction stage
 Intro to the topic
+Added this for rebasing
 
 ## Purpose
 
