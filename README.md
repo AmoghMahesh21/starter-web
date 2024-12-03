@@ -23,4 +23,4 @@ fork the repo
 
 ### Copyright
 
-2024 Git
+2024 Git, All rights reserved
