@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> Amogh -- <role> Trainee -- <twitter> amogh@twitter
+    Amogh -- Trainee -- amogh@twitter
 
 # THANKS
 
-    <name> Saying thanks to all my students"
+    Saying thanks to all my students
+	Leave a feedback
 
 # TECHNOLOGY COLOPHON
 
