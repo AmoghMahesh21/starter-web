@@ -1,0 +1,6 @@
+projectKey=starter-web-auto
+serverUrl=http://localhost:9000
+serverVersion=9.9.4.87374
+dashboardUrl=http://localhost:9000/dashboard?id=starter-web-auto
+ceTaskId=AZPehV4L0VeuSM0GU3tM
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZPehV4L0VeuSM0GU3tM
